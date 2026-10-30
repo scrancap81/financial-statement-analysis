@@ -1,0 +1,16 @@
+line_item,xbrl_tag,FY2023,FY2024,FY2025
+Revenues,us-gaap_Revenues,307394.0,350018.0,402836.0
+Cost of revenues,us-gaap_CostOfRevenue,133332.0,146306.0,162535.0
+Research and development,us-gaap_ResearchAndDevelopmentExpense,45427.0,49326.0,61087.0
+Sales and marketing,us-gaap_SellingAndMarketingExpense,27917.0,27808.0,28693.0
+General and administrative,us-gaap_GeneralAndAdministrativeExpense,16425.0,14188.0,21482.0
+Total costs and expenses,us-gaap_CostsAndExpenses,223101.0,237628.0,273797.0
+Income from operations,us-gaap_OperatingIncomeLoss,84293.0,112390.0,129039.0
+"Other income (expense), net",us-gaap_NonoperatingIncomeExpense,1424.0,7425.0,29787.0
+Income before income taxes,us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,85717.0,119815.0,158826.0
+Provision for income taxes,us-gaap_IncomeTaxExpenseBenefit,11922.0,19697.0,26656.0
+Net income,us-gaap_NetIncomeLoss,73795.0,100118.0,132170.0
+Preferred stock dividends,us-gaap_PreferredStockDividendsIncomeStatementImpact,,,
+Net income available to common stockholders,us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,,,
+Basic net income per common share ($ per share),us-gaap_EarningsPerShareBasic,5.84,8.13,10.91
+Diluted net income per common share ($ per share),us-gaap_EarningsPerShareDiluted,5.8,8.04,10.81

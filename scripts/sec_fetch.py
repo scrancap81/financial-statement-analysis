@@ -54,6 +54,11 @@ def _get(url: str, cache_name: str | None = None) -> str:
 
 def list_10q_filings(cik: int, n: int = 12) -> list[dict]:
     """Return the n most recent 10-Q filings (newest first)."""
+    return list_filings(cik, "10-Q", n)
+
+
+def list_filings(cik: int, form_type: str, n: int | None = None) -> list[dict]:
+    """Return the n most recent filings of one form type, e.g. '10-Q' or '10-K' (newest first)."""
     cik10 = f"{cik:010d}"
     base = json.loads(_get(f"https://data.sec.gov/submissions/CIK{cik10}.json"))
     blocks = [base["filings"]["recent"]]
@@ -64,15 +69,16 @@ def list_10q_filings(cik: int, n: int = 12) -> list[dict]:
     filings = []
     for b in blocks:
         for i, form in enumerate(b["form"]):
-            if form == "10-Q":
+            if form == form_type:
                 filings.append({
+                    "form": form,
                     "accession": b["accessionNumber"][i],
                     "period_end": b["reportDate"][i],
                     "filed": b["filingDate"][i],
                     "document": b["primaryDocument"][i],
                 })
     filings.sort(key=lambda x: x["period_end"], reverse=True)
-    return filings[:n]
+    return filings[:n] if n else filings
 
 
 def _parse_value(text: str):
