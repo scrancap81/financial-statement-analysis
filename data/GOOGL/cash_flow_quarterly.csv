@@ -1,0 +1,40 @@
+line_item,xbrl_tag,2023-03-31,2023-06-30,2023-09-30,2024-03-31,2024-06-30,2024-09-30,2025-03-31,2025-06-30,2025-09-30,2026-03-31,2026-06-30,2026-09-30
+Net income,us-gaap_NetIncomeLoss,15051.0,18368.0,19689.0,23662.0,23619.0,26301.0,34540.0,28196.0,34979.0,62578.0,112193.0,26468.0
+Depreciation of property and equipment,us-gaap_Depreciation,3060.0,3279.0,3671.0,3413.0,3708.0,3985.0,4487.0,4998.0,5611.0,6482.0,7104.0,8369.0
+Amortization and impairment of intangible assets,goog_AmortizationAndImpairmentOfIntangibleAssets,126.0,118.0,129.0,,,,,,,,,
+Stock-based compensation expense,us-gaap_ShareBasedCompensation,5284.0,5774.0,5743.0,5264.0,5865.0,5846.0,5516.0,5998.0,6368.0,6751.0,7957.0,8630.0
+Deferred income taxes,us-gaap_DeferredIncomeTaxesAndTaxCredits,-1854.0,-2415.0,-1824.0,419.0,-3157.0,-1071.0,-1152.0,-444.0,8726.0,6920.0,20618.0,5539.0
+"Loss (gain) on debt and equity securities, net",us-gaap_DebtAndEquitySecuritiesGainLoss,-84.0,509.0,869.0,-1781.0,1024.0,-1981.0,-9960.0,-1451.0,-10855.0,-36804.0,-98999.0,9048.0
+Other,us-gaap_OtherNoncashIncomeExpense,553.0,97.0,262.0,334.0,851.0,1407.0,481.0,560.0,-198.0,1265.0,1896.0,1664.0
+"Accounts receivable, net",us-gaap_IncreaseDecreaseInAccountsReceivable,4454.0,-2948.0,-2821.0,3167.0,-3057.0,-1431.0,1638.0,-2839.0,-2381.0,-363.0,-6541.0,-3917.0
+Inventory,us-gaap_IncreaseDecreaseInInventories,,,,,,,,,,,-7739.0,-3220.0
+"Income taxes, net",us-gaap_IncreaseDecreaseInIncomeTaxes,4069.0,4451.0,1872.0,3011.0,-3900.0,-1908.0,7197.0,-9631.0,-858.0,8101.0,203.0,-3702.0
+Other assets,us-gaap_IncreaseDecreaseInOtherOperatingAssets,-746.0,-513.0,-1624.0,-1000.0,-532.0,-802.0,-1288.0,-1479.0,-1293.0,-3403.0,-6547.0,-7807.0
+Accounts payable,us-gaap_IncreaseDecreaseInAccountsPayable,-1105.0,1119.0,223.0,-2124.0,1561.0,521.0,-880.0,553.0,-444.0,-240.0,2330.0,-165.0
+Accrued expenses and other liabilities,us-gaap_IncreaseDecreaseInAccruedLiabilities,-4496.0,459.0,3657.0,-5054.0,-122.0,-1190.0,-5045.0,3485.0,7759.0,-6002.0,6310.0,-1168.0
+Accrued revenue share,goog_IncreaseDecreaseInAccruedRevenueShare,-602.0,184.0,103.0,-322.0,419.0,381.0,116.0,-335.0,319.0,,,
+Deferred revenue,us-gaap_IncreaseDecreaseInContractWithCustomerLiability,-201.0,184.0,707.0,-141.0,361.0,640.0,500.0,136.0,681.0,505.0,284.0,2551.0
+Net cash provided by operating activities,us-gaap_NetCashProvidedByUsedInOperatingActivities,23509.0,28666.0,30656.0,28848.0,26640.0,30698.0,36150.0,27747.0,48414.0,45790.0,39069.0,42290.0
+Purchases of property and equipment,us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,-6289.0,-6888.0,-8055.0,-12012.0,-13186.0,-13061.0,-17197.0,-22446.0,-23953.0,-35674.0,-44924.0,-51355.0
+Purchases of marketable securities,us-gaap_PaymentsToAcquireMarketableSecurities,-14227.0,-21362.0,-13833.0,-20684.0,-22327.0,-22023.0,-18453.0,-21417.0,-20964.0,-31041.0,-45439.0,-39987.0
+Maturities and sales of marketable securities,us-gaap_ProceedsFromSaleAndMaturityOfMarketableSecurities,18327.0,18722.0,15593.0,24985.0,33592.0,23202.0,20345.0,20585.0,20371.0,38001.0,28695.0,21820.0
+Purchases of non-marketable securities,us-gaap_PaymentsToAcquireOtherInvestments,-626.0,-887.0,-663.0,-1206.0,-993.0,-1035.0,-958.0,-1354.0,-1000.0,-906.0,-21145.0,-2109.0
+Maturities and sales of non-marketable securities,us-gaap_ProceedsFromSaleAndMaturityOfOtherInvestments,36.0,145.0,562.0,313.0,292.0,127.0,259.0,614.0,323.0,848.0,819.0,208.0
+"Acquisitions, net of cash acquired, and purchases of intangible assets",goog_AcquisitionsNetOfCashAcquiredAndPurchasesOfIntangibleAndOtherAssets,-42.0,-298.0,-126.0,-61.0,-26.0,-2753.0,-340.0,-13.0,-1072.0,-33621.0,-76.0,-406.0
+Other investing activities,us-gaap_PaymentsForProceedsFromOtherInvestingActivities,-125.0,-232.0,-628.0,101.0,-133.0,-2468.0,150.0,-513.0,-1482.0,-996.0,-363.0,480.0
+Net cash used in investing activities,us-gaap_NetCashProvidedByUsedInInvestingActivities,-2946.0,-10800.0,-7150.0,-8564.0,-2781.0,-18011.0,-16194.0,-24544.0,-27777.0,-63389.0,-82433.0,-71349.0
+Net payments related to stock-based award activities,goog_NetProceedsPaymentsRelatedToStockBasedAwardActivities,-1989.0,-2736.0,-2432.0,-2929.0,-3209.0,-3003.0,-3110.0,-2621.0,-3270.0,-5483.0,-6573.0,-5368.0
+Repurchases of stock,us-gaap_PaymentsForRepurchaseOfCommonStock,-14557.0,-14969.0,-15787.0,-15696.0,-15684.0,-15291.0,-15068.0,-13638.0,-11504.0,0.0,0.0,0.0
+Dividend payments on preferred and common stock,us-gaap_PaymentsOfOrdinaryDividends,,,,,-2466.0,-2455.0,-2434.0,-2543.0,-2536.0,-2542.0,-2689.0,-2936.0
+"Proceeds from issuance of common stock, net of costs",us-gaap_ProceedsFromIssuanceOfCommonStock,,,,,,,,,,,30499.0,12371.0
+"Proceeds from issuance of mandatory convertible preferred stock, net of costs",us-gaap_ProceedsFromIssuanceOfConvertiblePreferredStock,,,,,,,,,,,19063.0,0.0
+"Proceeds from issuance of debt, net of costs",us-gaap_ProceedsFromDebtNetOfIssuanceCosts,6927.0,1123.0,1248.0,1982.0,2893.0,3819.0,4532.0,26846.0,6624.0,31379.0,24847.0,28996.0
+Repayments of debt,us-gaap_RepaymentsOfDebtAndCapitalLeaseObligations,-6952.0,-1255.0,-1414.0,-3079.0,-2423.0,-3449.0,-4521.0,-13876.0,-7697.0,-1477.0,-3776.0,-3626.0
+"Proceeds from sale of interest in consolidated entities, net",us-gaap_ProceedsFromMinorityShareholders,3.0,2.0,3.0,8.0,0.0,285.0,400.0,0.0,0.0,3200.0,558.0,0.0
+Other financing activities,us-gaap_ProceedsFromPaymentsForOtherFinancingActivities,,,,,,,,,,,-686.0,0.0
+Net cash provided by (used in) financing activities,us-gaap_NetCashProvidedByUsedInFinancingActivities,-16568.0,-17835.0,-18382.0,-19714.0,-20889.0,-20094.0,-20201.0,-5832.0,-18383.0,25077.0,61243.0,29437.0
+Effect of exchange rate changes on cash and cash equivalents,us-gaap_EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,50.0,-26.0,-351.0,-125.0,-238.0,141.0,43.0,401.0,-200.0,-123.0,-31.0,45.0
+Net increase (decrease) in cash and cash equivalents,us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect,4045.0,5.0,4773.0,445.0,2732.0,-7266.0,-202.0,-2228.0,2054.0,7355.0,17848.0,423.0
+Cash and cash equivalents at beginning of period,us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,21879.0,25924.0,25929.0,24048.0,24493.0,27225.0,23466.0,23264.0,21036.0,30708.0,38063.0,55911.0
+Cash and cash equivalents at end of period,us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,25924.0,25929.0,30702.0,24493.0,27225.0,19959.0,23264.0,21036.0,23090.0,38063.0,55911.0,56334.0
+Property and equipment included in accrued liabilities and accounts payable,us-gaap_CapitalExpendituresIncurredButNotYetPaid,,,,,,,,,,24131.0,29113.0,35921.0

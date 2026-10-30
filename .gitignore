@@ -1,0 +1,6 @@
+# raw EDGAR downloads (re-fetched on demand)
+data/_cache/
+__pycache__/
+*.pyc
+.DS_Store
+~$*.xlsx
